@@ -34,7 +34,7 @@ const Pagination = ({ perPages, totalPages, paginate }) => {
                   paddingLeft: "9px",
                   paddingRight: "9px",
                 }}
-                href="#"
+                href="/"
                 onClick={() => paginate(number)}
               >
                 {number}
