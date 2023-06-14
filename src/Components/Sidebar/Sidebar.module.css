@@ -155,16 +155,19 @@
     }
     .menu{
       padding-left: 5px;
+      padding-top: 5px;
     }
     .sidebar {
-    width: 10%;
+    width: 15%;
   }
   
   .header{
-    width: 10%;
+    width: 15%;
   }
   
-  
+  .navLogo{
+    margin-top: 5px;
+  }
   }
   
   @media (min-width: 768px) and (max-width: 992px){
@@ -183,5 +186,20 @@
   .navLogo{
     display: flex;
     flex-direction: column;
+  }
+  }
+   @media (max-height: 430px) {
+    .navLogo{
+    display: none;
+  }
+  .sidebar{
+    top: 0;
+   
+  }
+  .user{
+    bottom: 0px;
+  }
+  .avatarInfo{
+    display: none;
   }
   }
