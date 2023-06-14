@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/glivera-team/static/css/main.b76ec0e9.css",
+    "main.css": "/glivera-team/static/css/main.428efb34.css",
     "main.js": "/glivera-team/static/js/main.b4ca9fea.js",
     "static/media/discount-shape.svg": "/glivera-team/static/media/discount-shape.2134682ac231c4b843d7ebb0a8ed109b.svg",
     "static/media/wallet-money.svg": "/glivera-team/static/media/wallet-money.acd4b1f3401e6dcc65afce7aa707cf1b.svg",
@@ -8,16 +8,16 @@
     "static/media/user-square.svg": "/glivera-team/static/media/user-square.35aa4f67f2ab8bb6d13179e3dd8234f6.svg",
     "static/media/message-question.svg": "/glivera-team/static/media/message-question.1dd4c67d0bb1b2e0e60fe7289ad0cf50.svg",
     "static/media/key-square.svg": "/glivera-team/static/media/key-square.01ab9e4339e0383fa404e4c277fdccd5.svg",
-    "static/media/setting.svg": "/glivera-team/static/media/setting.fe449fe4db23fd3c4083185308ad1e00.svg",
     "index.html": "/glivera-team/index.html",
+    "static/media/setting.svg": "/glivera-team/static/media/setting.fe449fe4db23fd3c4083185308ad1e00.svg",
     "static/media/search.svg": "/glivera-team/static/media/search.d555a35800fec6f7c1928aef95546ef7.svg",
     "static/media/chevron-right-2.svg": "/glivera-team/static/media/chevron-right-2.5fec9ad84794c032bc33597246f38def.svg",
     "static/media/menu.svg": "/glivera-team/static/media/menu.d0905d7134e3e09807d8afe7fa2891f2.svg",
-    "main.b76ec0e9.css.map": "/glivera-team/static/css/main.b76ec0e9.css.map",
+    "main.428efb34.css.map": "/glivera-team/static/css/main.428efb34.css.map",
     "main.b4ca9fea.js.map": "/glivera-team/static/js/main.b4ca9fea.js.map"
   },
   "entrypoints": [
-    "static/css/main.b76ec0e9.css",
+    "static/css/main.428efb34.css",
     "static/js/main.b4ca9fea.js"
   ]
 }
