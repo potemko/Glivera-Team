@@ -6,7 +6,7 @@ import { BrowserRouter } from "react-router-dom";
 
 createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <BrowserRouter basename="/exemple-dashboard">
+    <BrowserRouter basename="/glivera-team">
       <App />
     </BrowserRouter>
   </React.StrictMode>
