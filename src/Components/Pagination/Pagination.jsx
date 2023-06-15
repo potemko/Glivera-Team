@@ -34,7 +34,7 @@ const Pagination = ({ perPages, totalPages, paginate }) => {
                   paddingLeft: "9px",
                   paddingRight: "9px",
                 }}
-                href="#"
+                href="/glivera-team/"
                 onClick={() => paginate(number)}
               >
                 {number}
