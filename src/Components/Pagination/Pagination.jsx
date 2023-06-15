@@ -25,7 +25,7 @@ const Pagination = ({ perPages, totalPages, paginate }) => {
               }}
             >
               <Link
-                className="page-link "
+                className="page-link"
                 style={{
 
                   border: "1px solid #EEEEEE",
