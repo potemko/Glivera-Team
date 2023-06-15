@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glivera-team/static/css/main.428efb34.css",
-    "main.js": "/glivera-team/static/js/main.3de91385.js",
+    "main.js": "/glivera-team/static/js/main.3614827f.js",
     "static/media/discount-shape.svg": "/glivera-team/static/media/discount-shape.2134682ac231c4b843d7ebb0a8ed109b.svg",
     "static/media/wallet-money.svg": "/glivera-team/static/media/wallet-money.acd4b1f3401e6dcc65afce7aa707cf1b.svg",
     "static/media/d-square.svg": "/glivera-team/static/media/d-square.4ebd8eeb332ef0efa31b8c5a535903cf.svg",
@@ -14,10 +14,10 @@
     "static/media/chevron-right-2.svg": "/glivera-team/static/media/chevron-right-2.5fec9ad84794c032bc33597246f38def.svg",
     "static/media/menu.svg": "/glivera-team/static/media/menu.d0905d7134e3e09807d8afe7fa2891f2.svg",
     "main.428efb34.css.map": "/glivera-team/static/css/main.428efb34.css.map",
-    "main.3de91385.js.map": "/glivera-team/static/js/main.3de91385.js.map"
+    "main.3614827f.js.map": "/glivera-team/static/js/main.3614827f.js.map"
   },
   "entrypoints": [
     "static/css/main.428efb34.css",
-    "static/js/main.3de91385.js"
+    "static/js/main.3614827f.js"
   ]
 }
