@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 // import css from "../Pages/Blank.module.css"
 
 const Pagination = ({ perPages, totalPages, paginate }) => {
@@ -23,7 +24,7 @@ const Pagination = ({ perPages, totalPages, paginate }) => {
                 borderRadius: "4px",
               }}
             >
-              <a
+              <Link
                 className="page-link "
                 style={{
 
@@ -34,11 +35,11 @@ const Pagination = ({ perPages, totalPages, paginate }) => {
                   paddingLeft: "9px",
                   paddingRight: "9px",
                 }}
-                href="/glivera-team/"
+                href="/"
                 onClick={() => paginate(number)}
               >
                 {number}
-              </a>
+              </Link>
             </li>
           ))}
         </ul>
